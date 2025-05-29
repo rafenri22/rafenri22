@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! saya Rafky Ferdian Algiffari, seorang Software Developer dan 3D Modeller. Saya mahasiswa aktif Universitas Pamulang yang antusias mengembangkan aplikasi modern dan game.</h2>
+<h2 align="left">Hi 👋! saya Rafky Ferdian Algiffari, seorang Software Developer dan 3D Modeller. Saya mahasiswa aktif Universitas Pamulang yang antusias mengembangkan aplikasi mobile modern.</h2>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
 </div>
 
 ###
