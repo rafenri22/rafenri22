@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! saya Rafky Ferdian Algiffari, seorang Software Developer dan 3D Modeller. Saya mahasiswa aktif Universitas Pamulang yang antusias mengembangkan aplikasi mobile modern.</h2>
+<h2 align="left">Hi 👋! saya Rafky Ferdian Algiffari, seorang Software Developer dan 3D Modeller. Saya mahasiswa aktif Universitas Pamulang yang antusias mengembangkan aplikasi modern dan game.</h2>
 
 ###
 
